@@ -1,1 +1,3 @@
 This is my file one for git course
+
+Checking the wait feature of git without commit message.
