@@ -4,3 +4,4 @@ Checking the wait feature of git without commit message.
 Check is successful.
 adding another marketing section
 add footer note
+added another footer.
